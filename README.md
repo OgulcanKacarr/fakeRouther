@@ -9,5 +9,5 @@ Merhaba,<br/> bu program ile kendiniz bir şifresiz wifi yayını yayacaksınız
 <br/>![MainMenu](https://github.com/OgulcanKacarr/fakeRouther/blob/master/Images/dnsmasq.png)
 
 Daha sonra hostapd.conf dosyasında ise "ssid" kısmına yaymak istediğiniz wifi ismi'ni giriniz.<br/> Bunları kontrol ettikten sonra yapmanız gereken tek şey;<br/>
-"python3 fakeRouther.py" komutu ile programı çalıştırmak olacaktır. İyi günler :)<br/><br/>
+"python3 fakeRouther.py"<br/>komutu ile programı çalıştırmak olacaktır. İyi günler :)<br/><br/>
 <br/>![MainMenu](https://github.com/OgulcanKacarr/fakeRouther/blob/master/Images/hostapd.png)
