@@ -2,7 +2,7 @@
 
 ## Amaç
 
-Merhaba, araç ile kendiniz bir şifresiz wifi yayını yayacaksınız.<br/> Böylece sizin yaydığınız wifi ağına bağlanan tüm kullanıcıların internnete yaptığı aramaları "wireshark" üzerinden izleyebileceksiniz.<br/>
+Merhaba,<br/> bu program ile kendiniz bir şifresiz wifi yayını yayacaksınız.<br/> Böylece sizin yaydığınız wifi ağına bağlanan tüm kullanıcıların internnete yaptığı aramaları "wireshark" üzerinden izleyebileceksiniz.<br/>
 
 ## Ayar
 öncelikle dns.conf dosyasında "interface" kısmının "wlan0" olup olmadığını kontrol ediniz. Bu kısım sizin interface ile aynı olmak zorunda.
